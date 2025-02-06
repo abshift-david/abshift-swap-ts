@@ -16,7 +16,7 @@ import { Notifications } from "@mantine/notifications";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Trade Different with Urani",
+  title: "Trade Different with MMC",
   description: "Trade Different with MMC",
   icons: {
     icon: "/assets/logos/space/space_logo_tiny.png",

@@ -112,7 +112,7 @@ export default function TableOrders({ orders, isLoading }: TableOrdersProps) {
               <Table.Td>
                 {!batchId ? null : (
                   <a
-                    href={`https://arena-urani-ag-git-dev-urani-labs.vercel.app/batches/${batchId}`}
+                    href={`https://swap.mymemecoin.com/batches/${batchId}`}
                     target="_blank"
                   >
                     <span className="material-symbols-rounded align-center">

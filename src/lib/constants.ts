@@ -2,7 +2,7 @@ import { Keypair, PublicKey } from "@solana/web3.js";
 
 import { Env } from "./interfaces/env";
 
-export const CMS_NAME = "Urani Swap";
+export const CMS_NAME = "MMC Swap";
 
 export function getProtocolProgramId(env: Env) {
   return new PublicKey(env.protocolProgramIdPubkey ?? "");

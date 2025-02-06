@@ -9,27 +9,20 @@ export default function Footer() {
         </div>
         <div className="flex flex-col-reverse sm:flex-row items-center justify-between">
           <a
-            href="https://www.urani.trade"
+            href="https://www.mymemecoin.com"
             rel="noopener noreferrer"
           >
             <div className="flex items-center justify-between">
               <span className="text-sm sm:text-base">
-                <b>Back to urani.trade</b>
+                <b>Back to MMC</b>
               </span>
             </div>
           </a>
           <div className="flex flex-col sm:flex-row items-center order-2 sm:order-1">
             <div className="flex sm:justify-center items-center mb-8 sm:mb-0 ">
+              
               <a
-                href="https://github.com/urani-trade"
-                className="hover:underline text-sm sm:text-base sm:mr-4"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span><b>Developers</b></span>
-              </a>
-              <a
-                href="https://www.urani.trade/terms/conditions"
+                href="https://www.mymemecoin.com/terms/conditions"
                 className="hover:underline text-sm sm:text-base sm:mr-4"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -37,7 +30,7 @@ export default function Footer() {
                 <span><b>Terms</b></span>
               </a>
               <a
-                href="https://www.urani.trade/terms/privacy"
+                href="https://www.mymemecoin.com/terms/privacy"
                 className="hover:underline text-sm sm:text-base sm:mr-4"
                 target="_blank"
                 rel="noopener noreferrer"

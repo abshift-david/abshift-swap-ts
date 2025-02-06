@@ -94,12 +94,12 @@ export default function Header() {
     <header>
       <Flowbite theme={{ theme: customTheme }}>
         <Navbar fluid>
-          <Navbar.Brand as={Link} href="https://urani.trade/">
+          <Navbar.Brand as={Link} href="https://mymemecoin.com/">
             <div className="relative flex w-full items-center justify-between">
               <Image
                 className="relative mr-14"
                 src="/assets/logos/space/space_logo_tiny.png"
-                alt="Urani Logo"
+                alt="MMC Logo"
                 width={40}
                 height={40}
                 priority
@@ -111,7 +111,7 @@ export default function Header() {
 
 
             <div className="relative group text-purple font-bold text-2xl py-2 pl-3 pr-4 md:p-0">
-              <Navbar.Link as={Link} href="https://swap.urani.trade/">
+              <Navbar.Link as={Link} href="https://swap.mymemecoin.com/">
                 <div className="relative group text-purple font-bold text-2xl">
                   <span>Swap</span>
                   <Underscore />
