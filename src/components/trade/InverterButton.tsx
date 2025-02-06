@@ -22,7 +22,7 @@ export default function InverterButton({
             className="block spinning"
             width={35}
             height={35}
-            src="https://mymemecoin.com/wp-content/uploads/2025/01/Logo.svg"
+            src="/assets/logos/Logo.svg"
             alt="Loading..."
           />
         ) : (

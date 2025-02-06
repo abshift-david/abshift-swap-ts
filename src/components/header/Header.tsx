@@ -98,7 +98,7 @@ export default function Header() {
             <div className="relative flex w-full items-center justify-between">
               <Image
                 className="relative mr-14"
-                src="https://mymemecoin.com/wp-content/uploads/2025/01/Logo.svg"
+                src="/assets/logos/Logo.svg"
                 alt="MMC Logo"
                 width={40}
                 height={40}

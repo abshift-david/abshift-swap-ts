@@ -14,7 +14,7 @@ export default function Placeholder() {
       </h1>
 
       <Image
-        src="https://mymemecoin.com/wp-content/uploads/2025/01/Logo.svg"
+        src="/assets/logos/Logo.svg"
         alt="MMC Logo"
         className="rotate-12 -mt-10 md:-mt-28"
         width={matches ? 400 : 150}
