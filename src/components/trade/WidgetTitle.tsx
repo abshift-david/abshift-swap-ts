@@ -6,7 +6,7 @@ export default function WidgetTitle() {
       <div className="text-purple font-bold flex items-center text-3xl mb-2 md:mb-4 select-none">
         MMC
         <Image
-          src="/assets/logos/space/space_logo_tiny.png"
+          src="https://mymemecoin.com/wp-content/uploads/2025/01/Logo.svg"
           className="w-12 h-12 mx-4 spin"
           alt=""
           width={48}
