@@ -98,7 +98,7 @@ export default function Header() {
             <div className="relative flex w-full items-center justify-between">
               <Image
                 className="relative mr-14"
-                src="/assets/logos/Logo.svg"
+                src="/assets/logos/MMC.svg"
                 alt="MMC Logo"
                 width={40}
                 height={40}

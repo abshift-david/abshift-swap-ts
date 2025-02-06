@@ -14,7 +14,7 @@ export default function Placeholder() {
       </h1>
 
       <Image
-        src="/assets/logos/Logo.svg"
+        src="/assets/logos/MMC.svg"
         alt="MMC Logo"
         className="rotate-12 -mt-10 md:-mt-28"
         width={matches ? 400 : 150}

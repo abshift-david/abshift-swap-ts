@@ -22,7 +22,7 @@ export default function InverterButton({
             className="block spinning"
             width={35}
             height={35}
-            src="/assets/logos/Logo.svg"
+            src="/assets/logos/MMC.svg"
             alt="Loading..."
           />
         ) : (

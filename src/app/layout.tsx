@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   title: "Trade Different with MMC",
   description: "Trade Different with MMC",
   icons: {
-    icon: "/assets/logos/Logo.svg",
+    icon: "/assets/logos/MMC.svg",
   },
 };
 
