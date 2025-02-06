@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   title: "Trade Different with MMC",
   description: "Trade Different with MMC",
   icons: {
-    icon: "/assets/logos/space/space_logo_tiny.png",
+    icon: "https://mymemecoin.com/wp-content/uploads/2025/01/Logo.svg",
   },
 };
 
