@@ -111,7 +111,7 @@ export default function Header() {
 
 
             <div className="relative group text-purple font-bold text-2xl py-2 pl-3 pr-4 md:p-0">
-              <Navbar.Link as={Link} href="https://swap.mymemecoin.com/">
+              <Navbar.Link as={Link} href="/">
                 <div className="relative group text-purple font-bold text-2xl">
                   <span>Swap</span>
                   <Underscore />
