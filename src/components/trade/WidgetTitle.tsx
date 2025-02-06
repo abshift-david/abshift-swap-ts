@@ -9,7 +9,7 @@ export default function WidgetTitle() {
           src="/assets/logos/MMC.svg"
           className="w-12 h-12 mx-4 spin"
           alt=""
-          width={72}
+          width={120}
           height={48}
         />
         Swap

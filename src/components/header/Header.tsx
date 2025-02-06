@@ -97,7 +97,7 @@ export default function Header() {
           <Navbar.Brand as={Link} href="https://mymemecoin.com/">
             <div className="relative flex w-full items-center justify-between">
               <Image
-                className="relative mr-14"
+                className="relative mr-14 spin"
                 src="/assets/logos/MMC.svg"
                 alt="MMC Logo"
                 width={240}
