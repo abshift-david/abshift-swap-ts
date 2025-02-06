@@ -100,7 +100,7 @@ export default function Header() {
                 className="relative mr-14"
                 src="/assets/logos/MMC.svg"
                 alt="MMC Logo"
-                width={60}
+                width={240}
                 height={60}
                 priority
               />
